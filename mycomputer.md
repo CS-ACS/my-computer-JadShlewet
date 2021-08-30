@@ -3,20 +3,20 @@
 ## Computer Specs:
 ### Brand and model name/number:
 * Apple **MacBookAir**
-### Operating System
+### Operating System:
 * __macOS High Sierra__
 ### CPU:
 * Intel Core **i5**
 ### RAM:
 * **8GB**
 ### Storage (HDD/SSD/Flash/etc.)
-* __121 GB__ Flash Storage
+* __121.12 GB__ PCIe-based Flash Storage
 ### Wirless(Wi-Fi/Bluetooth)
 | _Wi-Fi:_ | _Bluetooth:_ |
 | ----------- | ----------- |
 | 802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible | 4.0 wireless technology |
 ### Ports
-* *Two USB 3 ports (__up to 5 Gbps__)*
+* *Two USB 3.0 ports (__up to 5 Gbps__)*
 * _Thunderbolt 2 port (__up to 20 Gbps__)_
 * *MagSafe 2 power port*
 * _SDXC card slot_
