@@ -12,9 +12,9 @@
 ### Storage (HDD/SSD/Flash/etc.)
 * **121 GB** Flash Storage
 ### Wirless(Wi-Fi/Bluetooth)
-* Wi-Fi: **_802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible_**
-Bluetooth
-* Bluetooth: **_4.0 wireless technology_**
+| Wi-Fi: | Bluetooth: |
+| ----------- | ----------- |
+| **_802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible_** | **_4.0 wireless technology_** |
 ### Ports
 * *Two USB 3 ports (up to 5 Gbps)*
 * *Thunderbolt 2 port (up to 20 Gbps)*
