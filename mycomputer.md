@@ -1,5 +1,5 @@
 # My Computer:
-![MacBook Air 13-inch]()
+![MacBook Air 13-inch](MacBook_Air.JPG)
 ## Computer Specs:
 ### Brand and model name/number:
 * Apple **MacBookAir**
