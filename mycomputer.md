@@ -21,7 +21,7 @@
 * *MagSafe 2 power port*
 * _SDXC card slot_
 * *__3.5 mm__ headphone jack*
-* 
+
 SOURCE: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
 
 ## Commentary
