@@ -6,9 +6,9 @@
 ### Operating System:
 * __macOS High Sierra__
 ### CPU:
-* Intel Core **i5**
+* **1.6GHz dual-core Intel Core i5** with **3MB** shared **L3 cache**
 ### RAM:
-* **8GB**
+* **8GB** of **1600MHz** LPDDR3 onboard memory
 ### Storage (HDD/SSD/Flash/etc.)
 * __121.12 GB__ PCIe-based Flash Storage
 ### Wirless(Wi-Fi/Bluetooth)
@@ -25,5 +25,7 @@
 SOURCE: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
 
 ## Commentary
-* I really aprreciate and like my computer. This is mostly because I've had it for somewhere around 6 years, it has never let me down and has always been reliabe, and I try and repay that favor by almost never dropping it. 😀
-* My computer's performance is affected by its hardware configuration, especially Wi-Fi and CPU.  Some activites that cause my computer to slow down are running too many programs at once and doing something like writing an essay on Google Docs while having bad Wi-Fi and running other online programs. Like for example, if I have too many programs open such as Google Chrome with tabs for homework for each of my 8 classes, and if I run some sort of game such as Fortnite, which I used to really enjoy, along with the Preview App, Notes, Home Design 3D, and more, then my laptop starts going really slow because of my 8GB RAM not being able to keep up with all the programs as I switch between all of them, causing my computer to slowdown. My Intel Core i5 CPU also plays apart in this as it's the one that must move information into memory and retrieve data from it for the prgorams/applications that my laptop is running. Another occasion is when my Wi-Fi is being slow while I'm writing code like on here or an essay on google docs. This is because the text starts taking lots of time to appear on the screen and everything on my computer that uses Wi-Fi starts slowing down. So when I have bad Wi-Fi my computer slows down because the Wi-Fi at that moment cannot support all the online things that I'm doing, causing everything to slow down and/or take time to load.
+* __*I really aprreciate and like my computer. This is mostly because I've had it for somewhere around 6 years, it has never let me down and has always been reliabe, and I try and repay that favor by almost never dropping it.*__ 😀
+* __*My computer's performance is affected by its hardware configuration, especially RAM (& Hard Drive) and CPU.*__
+* **RAM (& Hard Drive:** RAM can cause laptops to slow down quite a bit. This is because when a computer uses up all the available RAM, it is forced to start using the hard it, which is really slower. This is because there then needs to be a constant transfer of data between the RAM and the hard drive memory which really slows a computer down. This usually happens when your computer is running too many applications or programs, which leads me to my example, although it doesn’t apply to my laptop. While on my mom’s laptop with 4GB RAM, if I have too many programs open such as Google Chrome with tabs for school & entertainment, and if I run any sort of game that takes up lots of memory, along with the Photo App, Microsoft Word, a bunch of opened random folders, and more, then the laptop starts going really slow because the 4GB RAM is not able to keep up with and store data from all the programs as I switch between all of them, causing the computer to slow down.
+* **CPU:**  CPU can cause laptops to slow down quite a bit. This is because the CPU is in charge of processing whatever you’re doing on your laptop, and is often referred to as the Brain of the Computer because of how important it is for using programs and applications on your computer.  So if the CPU is slow, then your computer will not be able to keep up with newer applications or games and will slow down. This happens to me as my CPU is at only 1.6GHz, which is quite low, so when I run games like Fortnite on my computer, it slows down.
