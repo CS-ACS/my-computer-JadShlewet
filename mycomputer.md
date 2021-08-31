@@ -38,4 +38,4 @@ Info Source: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
 
 ![MacBook_Air](https://user-images.githubusercontent.com/89781925/131555614-d86f9b34-afe9-4bd8-ac59-1d59dacc5402.png)
 
-Made into a PNG with: [remove.bg](remove.bg)
+Made into a PNG with: [Remove.bg](https://www.remove.bg/)
