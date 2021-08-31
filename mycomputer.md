@@ -1,6 +1,8 @@
 # My Computer
 ## Computer Specs:
 ![MacBook_Air-Hardware](Laptop_Hardware.jpg)
+
+Photo Source: [I Fix It](https://www.ifixit.com/Teardown/MacBook+Air+13-Inch+Early+2015+Teardown/38266)
 ### Brand and model name/number:
 * Apple **MacBookAir**
 ### Operating System:
@@ -22,7 +24,7 @@
 * _SDXC card slot_
 * *__3.5 mm__ headphone jack*
 
-SOURCE: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
+Source: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
 
 ## Commentary:
 ### Relationship with my Computer:
@@ -35,3 +37,5 @@ SOURCE: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
 * __My Actual Computer:__
 
 ![MacBook_Air](https://user-images.githubusercontent.com/89781925/131555614-d86f9b34-afe9-4bd8-ac59-1d59dacc5402.png)
+
+Made into a PNG with: [Remove.bg](remove.bg)
