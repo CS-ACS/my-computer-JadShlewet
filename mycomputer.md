@@ -4,7 +4,7 @@
 
 Photo Source: [I Fix It](https://www.ifixit.com/Teardown/MacBook+Air+13-Inch+Early+2015+Teardown/38266)
 ### Brand and model name/number:
-* Apple **MacBookAir**
+* Apple **MacBookAir** 13-Inch Early 2015 
 ### Operating System:
 * __macOS High Sierra__
 ### CPU:
