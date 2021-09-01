@@ -24,7 +24,7 @@ Photo Source: [I Fix It](https://www.ifixit.com/Teardown/MacBook+Air+13-Inch+Ear
 * _SDXC card slot_
 * *__3.5 mm__ headphone jack*
 
-Info Source: [Apple](https://support.apple.com/kb/sp714?locale=en_JO)
+Info Source: [Apple Support](https://support.apple.com/kb/sp714?locale=en_JO)
 
 ## Commentary:
 ### Relationship with my Computer:
